@@ -1,5 +1,5 @@
-[Dorian_Leci] ima x pobjeda i y poraza!
-[Josip_Zunic] ima z pobjeda i n poraza!
+[Dorian_Leci] ima 2 pobjeda i 1 poraza!
+[Josip_Zunic] ima 1 pobjeda i 2 poraza!
 
 
 
